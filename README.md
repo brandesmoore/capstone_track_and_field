@@ -28,9 +28,10 @@ Scope: Individual Events for Men and Women
 Based on the 2019 NCAA T&F Outdoor Championship athletes, would any of the athletes finishing times or distances   surpass the Summer 2016 Olympic medalists?
 1. Over the past three years (2017-2019), how often was an NCAA record set by an athlete at the current Championship meet?
 2. Did the NCAA record surpass the record from the previous Summer Olympic games?
-3. How have finishing times changed for the 100m run over the last five Summer Olympics (16 years) to determine the fastest   man and woman in the world?
+3. How have finishing times changed for the 100m Olympic winner from 2004-2016 to determine the fastest man and woman in the world?
 	
-    a. How have the finishing times changed over the past three years (2017-2019) for collegiate athletes?
+    a. How have the finishing times changed for collegiate athletes for the same time period?
+    
 4. How often do younger athletes win over the older athletes in the Summer Olympics?*
 
 # Sources
