@@ -16,6 +16,7 @@ Based on the collegiate T&F athletes in 2019, I want to know the speed and dista
 
 Is it likely that the current collegiate Track & Field Outdoor athlete’s finishing times and distances will surpass the finishing times and distances of the Summer Olympic athletes who compete in the same events? 
  
+ 
 Scope: Individual Men and Women Competitors in the following events
 1. 100M
 2. 200M
