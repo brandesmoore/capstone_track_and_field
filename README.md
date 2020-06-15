@@ -1,12 +1,14 @@
 ![image](https://user-images.githubusercontent.com/59903096/83331859-00119800-a25e-11ea-97d9-c5ec58a58c45.png)
 
 
-# How likely is it for an NCAA Collegiate athlete to surpass an Olympian?
+## How likely is it for an NCAA Collegiate athlete to surpass an Olympian?
 *A look at Individual NCAA Collegiate Track & Field (T&F) Champions in comparison to Olympians in the same events* 
 
 # Executive Summary
 Is it likely that the current collegiate Track & Field Outdoor athlete’s finishing times and distances will surpass the finishing   times and distances of the Summer Olympic athletes who compete in the same events? 
  
+![image](https://user-images.githubusercontent.com/59903096/84616163-ca40f600-ae90-11ea-989c-2f6091990771.png)
+
 
 I’ll be using final times and distances from the 2019 NCAA Division I Outdoor Championships and the 2000-2016 (2000, 2004, 2008, 2012, 2016) Summer Olympic games. I’m assuming that all the data is available but face a challenge in gathering all of the Olympic data needed due to the wait time in receiving data from the International Olympic Committee. The data has to be requested manually and your purpose for the data has to be approved by the Committee.
 # Motivation
@@ -16,15 +18,10 @@ Based on the collegiate T&F athletes in 2019, I want to know the speed and dista
 
 Is it likely that the current collegiate Track & Field Outdoor athlete’s finishing times and distances will surpass the finishing times and distances of the Summer Olympic athletes who compete in the same events? 
  
- 
-Scope: Individual Men and Women Competitors in the following events
-1. 100M
-2. 200M
-3. 400M
-4. 110M Hurdles
-5. 100M Hurdles(W)
-6. Shot Put
-7. Long Jump
+
+![image](https://user-images.githubusercontent.com/59903096/84616362-6539d000-ae91-11ea-9cc1-3c33504b5014.png)
+
+
    
 Based on the 2019 NCAA T&F Outdoor Championship athletes, would any of the athletes finishing times or distances surpass the Summer 2016 Olympic medalists?
 1. Over the past three years (2017-2019), how often was an NCAA record set for these events?
@@ -65,4 +62,10 @@ https://en.wikipedia.org/wiki/Sha%27Carri_Richardson
 
 # Challenges & Rewards
 
+*Challenges*
+
 *DOB data is readily available for Olympic athletes, however, if I want to compare the ages of NCAA Collegiate Athletes to Olympians, the DOB data would have to be scraped from Wikipedia for NCAA athletes individually since DOBs aren’t typically listed for a collective set of athletes.
+
+*Rewards*
+
+My love for Track & Field goes back to 1984, so it was rewarding to create a project from beginning to end to showcase my passion for the sport. Cleaning the data and creating the presentation didn't seem like work at all because I enjoyed every part of it. 
