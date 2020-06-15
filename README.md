@@ -30,7 +30,19 @@ Based on the 2019 NCAA T&F Outdoor Championship athletes, would any of the athl
 	
     a. How have the finishing times changed for collegiate athletes for the same time period?
     
-4. How often do younger athletes win over the older athletes in the Summer Olympics?*
+4. How often do younger athletes win over the older athletes in the Summer Olympics?
+
+
+
+# Challenges & Rewards
+
+### *Challenges*
+
+The main challenge for this Capstone was to limit the amount of information I used to present my findings. The history of the Olympics is so rich in data, statistics and trends, which makes it difficult to decide what to talk about when so much of the data is relative to your project.
+
+### *Rewards*
+
+My love for Track & Field goes back to 1984, so it was rewarding to create a project from beginning to end to showcase my passion for the sport. Cleaning the data and creating the presentation didn't seem like work at all because I enjoyed every part of it. 
 
 # Sources
 Estel Hegglin (personal communication, April 24, 2020) discusses 2016 Summer Athletic Olympic results
@@ -58,14 +70,3 @@ https://olympics.nbcsports.com/2018/06/09/usc-ncaa-womens-track-and-field-relay-
 Sha’Carri Richardson DOB:
 
 https://en.wikipedia.org/wiki/Sha%27Carri_Richardson
-
-
-# Challenges & Rewards
-
-*Challenges*
-
-*DOB data is readily available for Olympic athletes, however, if I want to compare the ages of NCAA Collegiate Athletes to Olympians, the DOB data would have to be scraped from Wikipedia for NCAA athletes individually since DOBs aren’t typically listed for a collective set of athletes.
-
-*Rewards*
-
-My love for Track & Field goes back to 1984, so it was rewarding to create a project from beginning to end to showcase my passion for the sport. Cleaning the data and creating the presentation didn't seem like work at all because I enjoyed every part of it. 
