@@ -26,14 +26,14 @@ Is it likely that the current collegiate Track & Field Outdoor athlete’s fini
 
 
    
-1. Based on the 2019 NCAA T&F Outdoor Championship athletes, would any of the athletes finishing times or distances surpass the Summer 2016 Olympic medalists?
+1. Based on the 2019 NCAA T&F Outdoor Championship athletes, would any of the athletes finishing times or distances (Appendix) surpass the Summer 2016 Olympic medalists?
 1. Over the past three years (2017-2019), how often was an NCAA record set for these events?
 
     a. Did the NCAA record surpass the previous World record?
 3. How often do younger athletes win over the older athletes in the Summer Olympics?
-4. How have finishing times changed for the 100m Olympic winner from 2004-2016 to determine the fastest man and woman in the world?
+4. (Appendix) How have finishing times changed for the 100m Olympic winner from 2004-2016 to determine the fastest man and woman in the world?
 	
-    a. How have the finishing times changed for collegiate athletes for the same time period? (Appendix)
+    a. How have the finishing times changed for collegiate athletes for the same time period?
     
 
 
@@ -48,6 +48,8 @@ The main challenge for this Capstone was to limit the amount of information I us
 ### *Rewards*
 
 My love for Track & Field goes back to 1984, so it was rewarding to create a project from beginning to end to showcase my passion for the sport. Cleaning the data using Data Analysis Expressions (DAX) in Power BI and creating the presentation didn't seem like work at all because I enjoyed every part of it. 
+
+
 
 # Sources
 Nashville Software School Logo: http://nashvillesoftwareschool.com/
