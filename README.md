@@ -11,7 +11,7 @@ Is it likely that the current NCAA Track & Field Outdoor athlete’s finishing 
 
 
 
-I’ll be using final times and distances from the 2019 NCAA Division I Outdoor Championships and the 2000-2016 (2000, 2004, 2008, 2012, 2016) Summer Olympic games. I’m assuming that all the data is available but face a challenge in gathering all of the Olympic data needed due to the wait time in receiving data from the International Olympic Committee. The data has to be requested manually and your purpose for the data has to be approved by the Committee.
+I’ll be using final times and distances from the 2019 NCAA Division I Outdoor Championships and the 2004-2016 (2004, 2008, 2012, 2016) Summer Olympic games. I’m assuming that all the data is available but face a challenge in gathering all of the Olympic data needed due to the wait time in receiving data from the International Olympic Committee. The data has to be requested manually and your purpose for the data has to be approved by the Committee.
 # Motivation
 
 Based on the collegiate T&F athletes in 2019, I want to know the speed and distance thresholds that the athletes would have to meet to surpass previous Olympic athletes? As a former Track & Field athlete who still attends competitions, I’m amazed at how athletic the current collegiate and Olympian competitors continue to be.  I’m someone who has role models that set world records in the 1980s that are still in place in 2020, so I’m excited to see how close the current collegiate athletes and Olympians are to beating those world records.
