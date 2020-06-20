@@ -46,7 +46,7 @@ The main challenge for this Capstone was to limit the amount of information I us
 
 ### *Rewards*
 
-My love for Track & Field goes back to 1984, so it was rewarding to create a project from beginning to end to showcase my passion for the sport. Cleaning the data and creating the presentation didn't seem like work at all because I enjoyed every part of it. 
+My love for Track & Field goes back to 1984, so it was rewarding to create a project from beginning to end to showcase my passion for the sport. Cleaning the data using Data Analysis Expressions (DAX) in Power BI and creating the presentation didn't seem like work at all because I enjoyed every part of it. 
 
 # Sources
 Nashville Software School Logo: http://nashvillesoftwareschool.com/
@@ -58,8 +58,6 @@ Estel Hegglin (personal communication, May 11, 2020) discusses 2000-2012 Summer 
 (# of medaled events) - https://www.nbcolympics.com/track-and-field/
 
 (largest single sport) - https://tokyo2020.org/en/sports/athletics/
-
-Sydney 2000 Olympic Results: https://library.olympic.org/Default/doc/SYRACUSE/36540/official-results-book-sydney-2000-brochure-des-resultats-officiels-sydney-2000-sydney-organising-com
 
 Athens 2004 Olympic Results: https://library.olympic.org/Default/doc/SYRACUSE/48555/official-results-book-athens-2004-brochure-des-resultats-officiels-athenes-2004-athoc
 
