@@ -1,11 +1,11 @@
 ![image](https://user-images.githubusercontent.com/59903096/83331859-00119800-a25e-11ea-97d9-c5ec58a58c45.png)
 
 
-## How likely is it for an NCAA Collegiate athlete to surpass an Olympian?
-*A look at Individual NCAA Collegiate Track & Field (T&F) Champions in comparison to Olympians in the same events* 
+## How likely is it for an NCAA athlete to surpass an Olympian?
+*A look at Individual NCAA Track & Field (T&F) athletes in comparison to Olympic athletes in the same events* 
 
 # Executive Summary
-Is it likely that the current collegiate Track & Field Outdoor athlete’s finishing times and distances will surpass the finishing   times and distances of the Summer Olympic athletes who compete in the same events? 
+Is it likely that the current NCAA Track & Field Outdoor athlete’s finishing times and distances will surpass the finishing times and distances of the Summer Olympic athletes who compete in the same events? 
  
 ![image](https://user-images.githubusercontent.com/59903096/85190489-8bd77c80-b27e-11ea-81f4-9ee7a8587cab.png)
 
