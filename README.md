@@ -11,7 +11,8 @@ Is it likely that the current NCAA Track & Field Outdoor athlete’s finishing 
 
 
 
-I’ll be using final times and distances from the 2019 NCAA Division I Outdoor Championships and the 2004-2016 (2004, 2008, 2012, 2016) Summer Olympic games. I’m assuming that all the data is available but face a challenge in gathering all of the Olympic data needed due to the wait time in receiving data from the International Olympic Committee. The data has to be requested manually and your purpose for the data has to be approved by the Committee.
+I’ll be using final times and distances from the 2019 NCAA Division I Outdoor Championships and the 2004-2016 (2004, 2008, 2012, 2016) Summer Olympic games. I’m assuming that all the data is available but face a challenge in gathering all of the Olympic data needed due to the wait time in receiving data from the International Olympic Committee. The data has to be requested manually and your purpose for the data has to be approved by the Committee. In total, this project consisted of 19 different datasets that were used for analysis in Power BI.
+
 # Motivation
 
 Based on the collegiate T&F athletes in 2019, I want to know the speed and distance thresholds that the athletes would have to meet to surpass previous Olympic athletes? As a former Track & Field athlete who still attends competitions, I’m amazed at how athletic the current collegiate and Olympian competitors continue to be.  I’m someone who has role models that set world records in the 1980s that are still in place in 2020, so I’m excited to see how close the current collegiate athletes and Olympians are to beating those world records.
@@ -25,14 +26,14 @@ Is it likely that the current collegiate Track & Field Outdoor athlete’s fini
 
 
    
-1. Based on the 2019 NCAA T&F Outdoor Championship athletes, would any of the athletes finishing times or distances surpass the Summer 2016 Olympic medalists?
+1. Based on the 2019 NCAA T&F Outdoor Championship athletes, would any of the athletes finishing times or distances (Appendix) surpass the Summer 2016 Olympic medalists?
 1. Over the past three years (2017-2019), how often was an NCAA record set for these events?
 
     a. Did the NCAA record surpass the previous World record?
 3. How often do younger athletes win over the older athletes in the Summer Olympics?
-4. How have finishing times changed for the 100m Olympic winner from 2004-2016 to determine the fastest man and woman in the world?
+4. (Appendix) How have finishing times changed for the 100m Olympic winner from 2004-2016 to determine the fastest man and woman in the world?
 	
-    a. How have the finishing times changed for collegiate athletes for the same time period? (Appendix)
+    a. How have the finishing times changed for collegiate athletes for the same time period?
     
 
 
@@ -47,6 +48,8 @@ The main challenge for this Capstone was to limit the amount of information I us
 ### *Rewards*
 
 My love for Track & Field goes back to 1984, so it was rewarding to create a project from beginning to end to showcase my passion for the sport. Cleaning the data using Data Analysis Expressions (DAX) in Power BI and creating the presentation didn't seem like work at all because I enjoyed every part of it. 
+
+
 
 # Sources
 Nashville Software School Logo: http://nashvillesoftwareschool.com/
