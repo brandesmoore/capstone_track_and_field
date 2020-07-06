@@ -44,7 +44,8 @@ Is it likely that the current collegiate Track & Field Outdoor athlete’s fini
 ![image](https://user-images.githubusercontent.com/59903096/85644457-99b14700-b65c-11ea-980c-aa95808f54c5.png)
 
 
-![image](https://user-images.githubusercontent.com/59903096/85644413-7a1a1e80-b65c-11ea-8a7b-b1b14caa84f3.png)
+![image](https://user-images.githubusercontent.com/59903096/86596101-51006480-bf5f-11ea-8556-8d380acd0bbf.png)
+
 
 ![image](https://user-images.githubusercontent.com/59903096/85644389-61aa0400-b65c-11ea-8daf-fd28ac0eccf7.png)
 
@@ -56,7 +57,7 @@ The main challenge for this Capstone was to limit the amount of information I us
 
 ### *Rewards*
 
-My love for Track & Field goes back to 1984, so it was rewarding to create a project from beginning to end to showcase my passion for the sport. Cleaning the data using Data Analysis Expressions (DAX) in Power BI and creating the presentation didn't seem like work at all because I enjoyed every part of it. 
+My love for Track & Field has been a part of my life for years, so it was rewarding to create a project from beginning to end to showcase my passion for the sport. Cleaning the data using Data Analysis Expressions (DAX) in Power BI and creating the presentation didn't seem like work at all because I enjoyed every part of it. 
 
 
 
